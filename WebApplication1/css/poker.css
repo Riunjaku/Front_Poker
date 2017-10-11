@@ -1,0 +1,41 @@
+﻿.pokerTable {
+    height: 350px;
+    background: #5cb85c;
+    border: solid 2em black;
+}
+
+.pokerCards {
+    width: 56px;
+    height: 85px;
+    background-color: white;
+    border: .2em solid black;
+    border-radius: 10%;
+    float: left;
+}
+
+.card-text {
+    margin: 0;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0;
+}
+
+.card-img {
+    text-align: center;
+    margin: 0;
+    font-size: 2em;
+}
+
+.red {
+    color: red;
+}
+
+.black {
+    color: black;
+}
+
+.btn {
+    margin-top: 20px;
+}

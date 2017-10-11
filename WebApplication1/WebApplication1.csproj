@@ -75,14 +75,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app.js" />
-    <Content Include="index.html" />
-    <Content Include="partial-home.html" />
-    <Content Include="partial-poker.html" />
+    <Content Include="angular\app.js" />
+    <Content Include="css\poker.css" />
+    <Content Include="View\index.html" />
+    <Content Include="View\partial-home.html" />
+    <Content Include="View\partial-poker.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class\Carta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
